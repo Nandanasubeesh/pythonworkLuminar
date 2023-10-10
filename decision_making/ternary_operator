@@ -1,0 +1,6 @@
+# trueexpression if condition else false stat
+
+in case of even and odd
+    num=10
+   result= "even" if num%==0 else "odd"
+    print("result)

@@ -1,0 +1,39 @@
+
+body{
+    margin: 0;
+}
+
+.box{
+    width:30%;
+    height:100px;
+    background-color:blueviolet;
+    border: 1px solid black;
+}
+nav{
+    margin-left: 430px;
+    margin-top: 20px;
+    padding:20px;
+  
+}
+footer{
+margin-left:430px;
+margin-top:350px ;
+}
+
+.box{
+    width:30%;
+    height:100px;
+    background-color:aqua;
+    border: 1px solid black;
+}
+.item2{
+    margin-right:auto;
+    
+}
+.item{
+    margin-right:auto;
+    margin-left:auto;
+}
+.item1{
+    margin-left:auto;
+}

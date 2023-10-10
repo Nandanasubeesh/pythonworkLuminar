@@ -1,0 +1,15 @@
+em....emphasis
+un....underline
+hr...horizontal rule(line)
+meter.....%
+forms
+container tags...inside some tags
+
+attribute : action,method,enctype(profile pic ,cv)
+http methods: get,post,put,patch,delete
+uneditable tags:label....attribute:for
+input tag:textbox....placeholder="Your name"
+properties:
+<tag>:group cheyaan
+checkbox:multiple number check cheyaan
+radio:male/female gender declaration

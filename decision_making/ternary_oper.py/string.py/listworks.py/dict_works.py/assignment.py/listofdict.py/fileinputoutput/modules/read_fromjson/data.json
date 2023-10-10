@@ -1,0 +1,9 @@
+[
+
+
+    {"name":"django","side":"backend","rating":1,"language":"python"},
+    {"name":"javascript","side":"backend","rating":4,"language":"python"},
+    {"name":"fastapli","side":"frontend","rating":9,"language":""},
+    {"name":"angualar","side":"backend","rating":5,"language":"python"}
+
+]

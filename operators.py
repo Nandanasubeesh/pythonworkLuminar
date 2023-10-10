@@ -1,0 +1,1 @@
+# print the height and weight ratio height<157 and  weight<55
